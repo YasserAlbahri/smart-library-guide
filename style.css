@@ -1,0 +1,93 @@
+body {
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    color: #666666;
+    background-color: #F5EFE5;
+    text-align: right;
+}
+
+.masthead {
+    background-color: #684832;
+    color: #FFFFFF;
+}
+
+.brand {
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
+.home-link {
+    float: left;
+    color: #684832;
+    font-size: 17px;
+}
+
+.intro {
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+h1 {
+    font-size: 38px;
+    color: #684832;
+}
+
+h2 {
+    font-size: 28px;
+    color: #684832;
+}
+
+h3 {
+    font-size: 25px;
+    color: #684832;
+}
+
+a {
+    color: #684832;
+}
+
+.subtitle {
+    color: #666666;
+    font-size: 18px;
+}
+
+.book-meta {
+    color: #666666;
+    font-size: 16px;
+}
+
+.category-bar {
+    background-color: #E8D9C5;
+    color: #684832;
+}
+
+.statistics {
+    font-size: 18px;
+    font-weight: bold;
+    color: #684832;
+}
+
+.book-table {
+    background-color: #FFFFFF;
+}
+
+.table-heading {
+    background-color: #684832;
+    color: #FFFFFF;
+}
+
+.guide-list {
+    list-style-type: square;
+    font-size: 18px;
+}
+
+.footer {
+    background-color: #E8D9C5;
+    text-align: center;
+}
+
+.credits {
+    font-size: 14px;
+    color: #666666;
+}
